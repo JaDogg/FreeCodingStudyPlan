@@ -1,6 +1,8 @@
-# Free Coding Study Plan
+# Free Coding Study Plan (
 
 Recommended to do this from top to bottom. Take notes and do any sums presented in the videos.
+
+*Target Audience*: Sri Lankan students. සමහර video සිංහලෙන් තියෙන්නේ. (🧐 If you have good videos in Tamil please send a pull request). If a video is not tagged with a language assume it to be in English. 
 
 ## Basics
 
@@ -8,6 +10,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] [Binary numbers](https://www.youtube.com/watch?v=kTcpd4ef2lU) - 10 minutes
 * [ ] [Binary numbers as fast as possible](https://www.youtube.com/watch?v=LpuPe81bc2w) - 5 minutes	
 * [ ] [Hexadecimal numbers](https://www.youtube.com/watch?v=4EJay-6Bioo) - 7 minutes
+* [ ] [Binay to Octal & Octal to Binary සිංහල](https://www.youtube.com/watch?v=sj1hTtF72OE) - 10 minutes 
 
 --- 
 
