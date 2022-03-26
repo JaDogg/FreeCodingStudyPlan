@@ -4,9 +4,14 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 
 **Target Audience**: Sri Lankan students. සමහර video සිංහලෙන් තියෙන්නේ. (🧐 If you have good videos in Tamil please send a pull request). If a video is not tagged with a language assume it to be in English. 
 
-## Basics
+## Basics <මුලික දේවල්>
+
+### How things work <කොහොමද දේවල් වැඩ කරන්නේ>
 
 * [ ] [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) - 30 minutes
+
+### Numbers <සංඛ්‍යා>
+
 * [ ] [Binary numbers](https://www.youtube.com/watch?v=kTcpd4ef2lU) - 10 minutes
 * [ ] [Binary numbers as fast as possible](https://www.youtube.com/watch?v=LpuPe81bc2w) - 5 minutes	
 * [ ] [Hexadecimal numbers](https://www.youtube.com/watch?v=4EJay-6Bioo) - 7 minutes
