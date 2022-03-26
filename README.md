@@ -23,6 +23,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] [How to write Markdown](https://www.youtube.com/watch?v=eJojC3lSkwg) - 11 min 
 * [ ] [<සිංහල> Github Tutorial for Beginners](https://www.youtube.com/watch?v=e4n_mlsv3lE) - 32 min
 * [ ] [What is a pull request](https://www.youtube.com/watch?v=e3bjQX9jIBk) - 10 min
+* [ ] [Git and GitHub for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - 2 hours 20 min+
 
 ---
 
