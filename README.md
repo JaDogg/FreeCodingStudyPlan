@@ -17,6 +17,14 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] [Hexadecimal numbers](https://www.youtube.com/watch?v=4EJay-6Bioo) - 7 minutes
 * [ ] [<සිංහල> Binay to Octal & Octal to Binary](https://www.youtube.com/watch?v=sj1hTtF72OE) - 10 minutes 
 
+---
+
+## 😱 No internet / No electicity how do we study?
+* [Download youtube videos when internet is available](https://itsfoss.com/download-youtube-videos-ubuntu/).
+* [Single file - save web pages locally](https://github.com/gildas-lormeau/SingleFile)
+* [12v Car battery laptop charging (only if you know electronics)](https://www.quora.com/How-can-I-use-a-12-volt-car-battery-to-power-my-laptop-without-an-inverter)
+ 
+
 --- 
 
 ## License 
