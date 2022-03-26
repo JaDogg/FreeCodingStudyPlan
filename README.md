@@ -2,7 +2,7 @@
 
 Recommended to do this from top to bottom. Take notes and do any sums presented in the videos.
 
-*Target Audience*: Sri Lankan students. සමහර video සිංහලෙන් තියෙන්නේ. (🧐 If you have good videos in Tamil please send a pull request). If a video is not tagged with a language assume it to be in English. 
+**Target Audience**: Sri Lankan students. සමහර video සිංහලෙන් තියෙන්නේ. (🧐 If you have good videos in Tamil please send a pull request). If a video is not tagged with a language assume it to be in English. 
 
 ## Basics
 
