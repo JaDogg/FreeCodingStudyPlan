@@ -1,4 +1,4 @@
-# Free Coding Study Plan (
+# Free Coding Study Plan (නොමිලේ කොඩින්ග් ඉගෙන ගන්න සැලැස්ම)
 
 Recommended to do this from top to bottom. Take notes and do any sums presented in the videos.
 
@@ -10,7 +10,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] [Binary numbers](https://www.youtube.com/watch?v=kTcpd4ef2lU) - 10 minutes
 * [ ] [Binary numbers as fast as possible](https://www.youtube.com/watch?v=LpuPe81bc2w) - 5 minutes	
 * [ ] [Hexadecimal numbers](https://www.youtube.com/watch?v=4EJay-6Bioo) - 7 minutes
-* [ ] [Binay to Octal & Octal to Binary සිංහල](https://www.youtube.com/watch?v=sj1hTtF72OE) - 10 minutes 
+* [ ] [<සිංහල> Binay to Octal & Octal to Binary](https://www.youtube.com/watch?v=sj1hTtF72OE) - 10 minutes 
 
 --- 
 
