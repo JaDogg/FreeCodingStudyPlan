@@ -15,7 +15,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] [Binary numbers](https://www.youtube.com/watch?v=kTcpd4ef2lU) - 10 minutes
 * [ ] [Binary numbers as fast as possible](https://www.youtube.com/watch?v=LpuPe81bc2w) - 5 minutes	
 * [ ] [Hexadecimal numbers](https://www.youtube.com/watch?v=4EJay-6Bioo) - 7 minutes
-* [ ] [<සිංහල> Binay to Octal & Octal to Binary](https://www.youtube.com/watch?v=sj1hTtF72OE) - 10 minutes 
+* [ ] [<සිංහල> Binary to Octal & Octal to Binary](https://www.youtube.com/watch?v=sj1hTtF72OE) - 10 minutes 
 
 ---
 
@@ -23,9 +23,9 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [Download youtube videos when internet is available](https://itsfoss.com/download-youtube-videos-ubuntu/).
 * [Single file - save web pages locally](https://github.com/gildas-lormeau/SingleFile)
 * [12v Car battery laptop charging (only if you know electronics)](https://www.quora.com/How-can-I-use-a-12-volt-car-battery-to-power-my-laptop-without-an-inverter)
-* [12v Car batter laptop charging - video (only if you know electronics)](https://www.youtube.com/watch?v=DWjFbytZJ1I)
-* [4G Router with car battery](https://www.youtube.com/watch?v=zVC9gahDKrk) 
-* [4G Router with 9v battery](https://www.youtube.com/watch?v=7wQpL6cOkwo)
+* [12v Car batter laptop charging - video (only if you know electronics)](https://www.youtube.com/watch?v=DWjFbytZJ1I) - 4 min
+* [<සිංහල> 4G Router with car battery (only if you know electronics)](https://www.youtube.com/watch?v=zVC9gahDKrk) - 3 min
+* [<සිංහල> 4G Router with 9v battery (only if you know electronics)](https://www.youtube.com/watch?v=7wQpL6cOkwo) - 7 min
 * [Offline Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download) - Note this is a very large download (20GB)
 * Low tech - Keep a timetable of when electricity is available and not, find a study buddy who lives somewhere else with non overlapping or partially overlapping powercuts and go to each others houses. කරන්ට් කපන වෙලාව කාල සටහනක දාල. යාලුවන්ගේ කරන්ට් කපන වෙලාවල් බලල. යාලුවෙක් ගේ ගෙදර යන්න උන්ට කරන්ට් තියෙද්දී. යාළුවා ගෙන්න ගන්න උබට කරන්ට් තියෙද්දී. 
 
