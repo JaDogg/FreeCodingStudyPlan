@@ -1,5 +1,7 @@
 # Free Coding Study Plan
 
+Recommended to do this from top to bottom. Take notes and do any sums presented in the videos.
+
 ## Basics
 
 * [ ] [How computers work](https://www.youtube.com/watch?v=OAx_6-wdslM&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-) - 30 minutes
