@@ -23,6 +23,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [Download youtube videos when internet is available](https://itsfoss.com/download-youtube-videos-ubuntu/).
 * [Single file - save web pages locally](https://github.com/gildas-lormeau/SingleFile)
 * [12v Car battery laptop charging (only if you know electronics)](https://www.quora.com/How-can-I-use-a-12-volt-car-battery-to-power-my-laptop-without-an-inverter)
+* [12v Car batter laptop charging - video (only if you know electronics)](https://www.youtube.com/watch?v=DWjFbytZJ1I)
  
 
 --- 
