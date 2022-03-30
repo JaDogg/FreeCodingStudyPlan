@@ -46,12 +46,15 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 
 ### Projects Part 01
 * [ ] 📃 Let's make a Teeny Tiny compiler - [1](https://austinhenley.com/blog/teenytinycompiler1.html), [2](https://austinhenley.com/blog/teenytinycompiler2.html), [3](https://austinhenley.com/blog/teenytinycompiler3.html)
-# Extras
 
 ### Java
 * [ ] 📃 Install IntelliJ - [Step 1 - Setup Snap](https://snapcraft.io/docs/installing-snapd), [Step 2 - IntelliJ](https://snapcraft.io/intellij-idea-community)
 * [ ] [📃 Getting started with Java](https://www.baeldung.com/get-started-with-java-series)
 * [ ] [📃 Sprint Boot](https://www.baeldung.com/spring-boot)
+
+-------
+
+# Extras
 
 ## English
 * [📺 ENGLISH with James](https://www.youtube.com/c/engvidJames) This is a link to a channel.
