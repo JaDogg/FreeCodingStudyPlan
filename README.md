@@ -34,6 +34,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 
 ## English
 * [ENGLISH with James](https://www.youtube.com/c/engvidJames) This is a link to a channel.
+* [Hacker News](https://news.ycombinator.com/) - Your daily news source.
 
 ## 😱 No internet / No electicity how do we study?
 * [Download youtube videos when internet is available](https://itsfoss.com/download-youtube-videos-ubuntu/).
