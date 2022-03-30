@@ -25,7 +25,15 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] [What is a pull request](https://www.youtube.com/watch?v=e3bjQX9jIBk) - 10 min
 * [ ] [Git and GitHub for poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) - 2 hours 20 min+
 
+### Bash
+* [ ] [Terminal vs Bash vs Command Line vs Prompt](https://www.youtube.com/watch?v=hMSByvFHOro) - 11 min
+* [ ] [<සිංහල> Introduction to Linux Bash Shell](https://www.youtube.com/watch?v=XRYygQmFbUo&list=PLXtQjCQTbXvj143YlIUK0QWrNKBITXfOC) - 1 hour
+* [ ] [Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag) - 1 hour 14 min
+
 ---
+
+## English
+* [ENGLISH with James](https://www.youtube.com/c/engvidJames) This is a link to a channel watch as many as you like.
 
 ## 😱 No internet / No electicity how do we study?
 * [Download youtube videos when internet is available](https://itsfoss.com/download-youtube-videos-ubuntu/).
