@@ -37,7 +37,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] [📺 <සිංහල> Python Tutorial](https://www.youtube.com/watch?v=4OuKhqbu4vg&list=PL495mke12zYC-ZUbzd1Z0Y6WteuvsMf7Z&index=1) - ~5 hours
 
 ### C
-* [ ] [📺 GCC compilation Step by Step explanation with Example](https://www.youtube.com/watch?v=ldHJVQNEYV4)
+* [ ] [📺 GCC compilation Step by Step explanation with Example](https://www.youtube.com/watch?v=ldHJVQNEYV4) - 8 min
 
 ### Projects Part 01
 * [ ] 📃 Let's make a Teeny Tiny compiler - [1](https://austinhenley.com/blog/teenytinycompiler1.html), [2](https://austinhenley.com/blog/teenytinycompiler2.html), [3](https://austinhenley.com/blog/teenytinycompiler3.html)
