@@ -33,12 +33,14 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] [📺 Beginner's Guide to the Bash Terminal](https://www.youtube.com/watch?v=oxuRxtrO2Ag) - 1 hour 14 min
 
 ### Python
+* [ ] [📺 Python Tutorial Full Course For Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc) - 6 hours
+* [ ] [📺 <සිංහල> Python Tutorial](https://www.youtube.com/watch?v=4OuKhqbu4vg&list=PL495mke12zYC-ZUbzd1Z0Y6WteuvsMf7Z&index=1) - ~5 hours
 
 ### C
+* [ ] [📺 GCC compilation Step by Step explanation with Example](https://www.youtube.com/watch?v=ldHJVQNEYV4)
 
 ### Projects Part 01
-* [ ] 📃 Let's make a Teeny Tiny compiler - [1](https://austinhenley.com/blog/teenytinycompiler1.html), [2](https://austinhenley.com/blog/teenytinycompiler2.html), [3](https://austinhenley.com/blog/teenytinycompiler3.html) - ~10 hours
-
+* [ ] 📃 Let's make a Teeny Tiny compiler - [1](https://austinhenley.com/blog/teenytinycompiler1.html), [2](https://austinhenley.com/blog/teenytinycompiler2.html), [3](https://austinhenley.com/blog/teenytinycompiler3.html)
 # Extras
 
 ## English
