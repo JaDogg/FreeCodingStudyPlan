@@ -38,6 +38,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 
 ### C
 * [ ] [📺 GCC compilation Step by Step explanation with Example](https://www.youtube.com/watch?v=ldHJVQNEYV4) - 8 min
+* [ ] [📺 Compiling, assembling, and linking](https://www.youtube.com/watch?v=N2y6csonII4) - 6 min
 
 ### Projects Part 01
 * [ ] 📃 Let's make a Teeny Tiny compiler - [1](https://austinhenley.com/blog/teenytinycompiler1.html), [2](https://austinhenley.com/blog/teenytinycompiler2.html), [3](https://austinhenley.com/blog/teenytinycompiler3.html)
