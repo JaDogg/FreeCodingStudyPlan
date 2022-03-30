@@ -19,6 +19,10 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] [📺 Hexadecimal numbers](https://www.youtube.com/watch?v=4EJay-6Bioo) - 7 minutes
 * [ ] [📺 <සිංහල> Binary to Octal & Octal to Binary](https://www.youtube.com/watch?v=sj1hTtF72OE) - 10 minutes 
 
+### Internet / HTTP / REST
+* [ ] [📺 Internet 101](https://www.youtube.com/watch?v=iV-YqG70wbQ&list=PLSQl0a2vh4HD8wtmKZh0nKOsOvP1KYaNO) - 40 min
+* [ ] [📺 What is a REST API](https://www.youtube.com/watch?v=SLwpqD8n3d0) - 6 min
+
 ## Tech skills
 
 ### Github
@@ -43,6 +47,11 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 ### Projects Part 01
 * [ ] 📃 Let's make a Teeny Tiny compiler - [1](https://austinhenley.com/blog/teenytinycompiler1.html), [2](https://austinhenley.com/blog/teenytinycompiler2.html), [3](https://austinhenley.com/blog/teenytinycompiler3.html)
 # Extras
+
+### Java
+* [ ] 📃 Install IntelliJ - [Step 1 - Setup Snap](https://snapcraft.io/docs/installing-snapd), [Step 2 - IntelliJ](https://snapcraft.io/intellij-idea-community)
+* [ ] [📃 Getting started with Java](https://www.baeldung.com/get-started-with-java-series)
+* [ ] [📃 Sprint Boot](https://www.baeldung.com/spring-boot)
 
 ## English
 * [📺 ENGLISH with James](https://www.youtube.com/c/engvidJames) This is a link to a channel.
