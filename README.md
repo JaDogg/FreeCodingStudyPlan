@@ -39,7 +39,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 ### Projects Part 01
 * [ ] 📃 Let's make a Teeny Tiny compiler - [1](https://austinhenley.com/blog/teenytinycompiler1.html), [2](https://austinhenley.com/blog/teenytinycompiler2.html), [3](https://austinhenley.com/blog/teenytinycompiler3.html) - ~10 hours
 
-# : Extras
+# Extras
 
 ## English
 * [📺 ENGLISH with James](https://www.youtube.com/c/engvidJames) This is a link to a channel.
