@@ -48,7 +48,9 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [ ] 📃 Let's make a Teeny Tiny compiler - [1](https://austinhenley.com/blog/teenytinycompiler1.html), [2](https://austinhenley.com/blog/teenytinycompiler2.html), [3](https://austinhenley.com/blog/teenytinycompiler3.html)
 
 ### Java
+* [ ] 🔖 Downloading JDK - [AdoptOpenJDK](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot), [Amazon Coretto](https://aws.amazon.com/corretto/)
 * [ ] 📃 Install IntelliJ - [Step 1 - Setup Snap](https://snapcraft.io/docs/installing-snapd), [Step 2 - IntelliJ](https://snapcraft.io/intellij-idea-community)
+* [ ] [📃 Maven Tutorial](https://www.baeldung.com/maven)
 * [ ] [📃 Getting started with Java](https://www.baeldung.com/get-started-with-java-series)
 * [ ] [📃 Sprint Boot](https://www.baeldung.com/spring-boot)
 
