@@ -64,7 +64,7 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 
 ## 😱 No internet / No electicity how do we study?
 * [📃 Download youtube videos when internet is available](https://itsfoss.com/download-youtube-videos-ubuntu/).
-* [📃 Single file - save web pages locally](https://github.com/gildas-lormeau/SingleFile) [Demo](https://www.youtube.com/watch?v=oVvTmcwxvmc)
+* [📃 Single file - save web pages locally](https://github.com/gildas-lormeau/SingleFile) [📺 Demo](https://www.youtube.com/watch?v=oVvTmcwxvmc)
 * [📃 12v Car battery laptop charging (only if you know electronics)](https://www.quora.com/How-can-I-use-a-12-volt-car-battery-to-power-my-laptop-without-an-inverter) ⚠️ danger <භයානක දෙයක්> ⚠️
 * [📺 12v Car batter laptop charging - video (only if you know electronics)](https://www.youtube.com/watch?v=DWjFbytZJ1I) - 4 min ⚠️ danger <භයානක දෙයක්> ⚠️
 * [📺 <සිංහල> 4G Router with car battery (only if you know electronics)](https://www.youtube.com/watch?v=zVC9gahDKrk) - 3 min ⚠️ danger <භයානක දෙයක්> ⚠️
