@@ -70,7 +70,9 @@ Recommended to do this from top to bottom. Take notes and do any sums presented 
 * [📺 <සිංහල> 4G Router with car battery (only if you know electronics)](https://www.youtube.com/watch?v=zVC9gahDKrk) - 3 min ⚠️ danger <භයානක දෙයක්> ⚠️
 * [📺 <සිංහල> 4G Router with 9v battery (only if you know electronics)](https://www.youtube.com/watch?v=7wQpL6cOkwo) - 7 min ⚠️ danger <භයානක දෙයක්> ⚠️
 * [📃 Offline Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Database_download) - Note this is a very large download (20GB)
-* Low tech - Keep a timetable of when electricity is available and not, find a study buddy who lives somewhere else with non overlapping or partially overlapping powercuts and go to each others houses. කරන්ට් කපන වෙලාව කාල සටහනක දාල. යාලුවන්ගේ කරන්ට් කපන වෙලාවල් බලල. යාලුවෙක් ගේ ගෙදර යන්න උන්ට කරන්ට් තියෙද්දී. යාළුවා ගෙන්න ගන්න උබට කරන්ට් තියෙද්දී. 
+* Low tech - Keep a timetable of when electricity is available and not, find a study buddy who lives somewhere else with non overlapping or partially overlapping powercuts and go to each others houses. කරන්ට් කපන වෙලාව කාල සටහනක දාල. යාලුවන්ගේ කරන්ට් කපන වෙලාවල් බලල. යාලුවෙක් ගේ ගෙදර යන්න උන්ට කරන්ට් තියෙද්දී. යාළුවා ගෙන්න ගන්න උබට කරන්ට් තියෙද්දී.
+* [🤖 Run Python 3 on Android](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+* [🍎 Run Python 3 on iOS](https://apps.apple.com/us/app/pythonista-3/id1085978097)
 
 --- 
 
